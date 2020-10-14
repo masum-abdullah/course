@@ -1,4 +1,4 @@
-var Courses = [
+[
     {
         name='Complete Web Development'
         fees='20'
